@@ -1,0 +1,7 @@
+date,medicine_name,quantity,price,pharmacy_id
+2026-02-01,Paracetamol,20,15.00,P001
+2026-02-01,Amoxicillin,10,60.00,P001
+2026-02-02,Ibuprofen,12,35.00,P002
+2026-02-02,Paracetamol,30,15.00,P003
+2026-02-03,Vitamin C,25,25.00,P002
+2026-02-03,Cetirizine,18,20.00,P001

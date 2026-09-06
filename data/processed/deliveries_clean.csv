@@ -1,0 +1,6 @@
+supplier_id,medicine_name,delivered_qty,delivery_date
+S001,Paracetamol,100,2026-02-01
+S002,Amoxicillin,50,2026-02-02
+S001,Ibuprofen,40,2026-02-02
+S003,Vitamin C,150,2026-02-03
+S002,Cetirizine,30,2026-02-03
