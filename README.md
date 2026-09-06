@@ -222,15 +222,15 @@ Planned improvements:
 
 ## 👨‍💻 Author
 
-**Geeth Isuru**
+**Rakshit Bagait**
 
  Data Engineering Student
 
 GitHub:  
-https://github.com/GeethDhananjaya
+https://github.com/rakshitbagait
 
 LinkedIn:  
-https://www.linkedin.com/in/geeth-dhananjaya-15a4aa349?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRi6vtZPQTbqxHgkB28hwzg%3D%3D
+https://in.linkedin.com/in/rakshit-bagait-b175ab377
 
 ---
 
